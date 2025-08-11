@@ -40,19 +40,3 @@ Ensemble methods further enhanced the model's performance:
 - **Ensemble with Soft Voting**: Achieved a maximum accuracy of 95% on upscaled data.
 
 The precision, recall, and F1-score across different models indicated a balanced performance, especially in ensembles that effectively handled class imbalances.
-
-## Contributing
-
-Feel free to fork this repository and contribute by submitting pull requests with your improvements.
-
-## License
-
-This project is released under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
-
-## Acknowledgements
-
-This project was supported by collaborative efforts at the University of Windsor. We express our gratitude to all the collaborators and participants who contributed to the research and development of these models.
-
----
-
-This README provides a comprehensive overview of your project, focusing on the scientific accuracy and transparency about the results you've achieved. If you'd like any additional information included, just let me know!
